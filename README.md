@@ -42,12 +42,12 @@ Publish the website in the LocalHost.
         }
          .bookpage{
              width: 400px;
-             height: 650px;
+             height: 610px;
              
              margin-left: auto;
              margin-right: auto ;
              padding: 20px;
-             background-image: url('bg.png');
+             background-image: url('BACKGROUNDCOVER.png');
              background-position: center;
              background-color: black;
              background-repeat: no-repeat;
@@ -84,8 +84,8 @@ Publish the website in the LocalHost.
              position:relative;
              font-family: Arial, Helvetica, sans-serif;
              display: inline;
-             font-size: 24px;
-             line-height: 5px;
+             font-size: 20px;
+             line-height: 2px;
               
              
          }
@@ -97,8 +97,8 @@ Publish the website in the LocalHost.
 
             
             
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-right: 1px;
+  margin-left: 1px;
 
   font-size: 14px;
   }
@@ -139,13 +139,13 @@ img {
                 <div class="bookpage">
                     <div class="toptext">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EXPERT INSIGHT</div>
                     <div class="tophr"><hr></div> 
-               <div class="booktitle"><h1> Responsive Web Design with HTML5 and CSS </h1></div>
-               <h3 class="sub-text">&nbsp;&nbsp;&nbsp;Develop future-proof responsive websites</h3>
-                    <h3 class="sub-text">&nbsp;&nbsp;&nbsp;using the latest HTML5 and CSS designs</h3>
+               <div class="booktitle"><h1>LEARN WEB APPLICATION with HTML and CSS </h1></div>
+               <h3 class="sub-text">&nbsp;&nbsp;&nbsp;EXPLORE THE WORLD OF WEB CREATION AND DESIGN</h3>
+                    
                     <div class="footer">
-                        <h2 class="edition">&nbsp;&nbsp;Third Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="c:\Users\admin\Pictures\benfrain.jpeg"></h2>
+                        <h2 class="edition">&nbsp;&nbsp;Third Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="c:\Users\admin\Pictures\my pic.jpg"></h2>
                         <div class="bottomhr"><hr></div>
-                    <div class="author"><h3>&nbsp;&nbsp;Ben Frain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Packt></h3></div>
+                    <div class="author"><h3>&nbsp;&nbsp;SHADHANA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PAPERBACK</h3></div>
                     
                 </div>
                 </div> 
@@ -154,12 +154,12 @@ img {
         
     
 </html>
+        
 ```
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-17 105616.png>)
-
+![alt text](<Screenshot 2024-04-23 100844.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
