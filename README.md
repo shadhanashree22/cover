@@ -143,7 +143,7 @@ img {
                <h3 class="sub-text">&nbsp;&nbsp;&nbsp;EXPLORE THE WORLD OF WEB CREATION AND DESIGN</h3>
                     
                     <div class="footer">
-                        <h2 class="edition">&nbsp;&nbsp;Third Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="c:\Users\admin\Pictures\my pic.jpg"></h2>
+                        <h2 class="edition">&nbsp;&nbsp;Third Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src=""my pic.png""></h2>
                         <div class="bottomhr"><hr></div>
                     <div class="author"><h3>&nbsp;&nbsp;SHADHANA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PAPERBACK</h3></div>
                     
@@ -159,7 +159,6 @@ img {
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-23 100844.png>)
-
+![alt text](<Screenshot 2024-04-25 193650.png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
